@@ -7,3 +7,5 @@ Este é o meu projeto utilizando o **Git e **Github
 _ Fazendo mais uma alteração
 
 Adicionada uma nova branch no meu projeto
+
+- Adicionada uma nova funcionalidade.
